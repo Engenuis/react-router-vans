@@ -1,0 +1,55 @@
+.host-vans-container__title{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 34px;
+    color: #161616;
+    margin-left: 26.12px;
+    margin-bottom: 32px;
+}
+
+.host-vans-container__list{
+    list-style: none;
+    margin-left: 26px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 66px;
+}
+
+.host-vans-container__list__item{
+    width: 494px;
+    height: 102px;
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    padding-left: 24px;
+    cursor: pointer;
+}
+
+.host-vans-container__list__item__image{
+    width: 65.88px;
+    height: 65.88px;
+    border-radius: 5px;
+}
+
+.host-vans-container__list__item__text{
+    margin-left: 17px;
+}
+
+.host-vans-container__list__item__name{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    color: #161616;
+}
+
+.host-vans-container__list__item__price{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    color: #4D4D4D;
+}

@@ -1,0 +1,83 @@
+.vans-main{
+    margin: 54.23px 28.9px 83.23px 26.91px;
+}
+
+.goback__link{
+    display: flex;
+    align-items: center;
+    gap: 10.96px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 15.9462px;
+    line-height: 23px;
+    text-decoration-line: underline;
+    margin-bottom: 40.79px;
+    cursor: pointer;
+    color: #201F1D;
+}
+
+
+.selected-van__image{
+    width: 497.32px;
+    height: 490.35px;
+    border-radius: 5px;
+    margin-bottom: 50.38px;
+}
+
+.selected-van__type{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 85.71px;
+    height: 33.89px;
+    background-color: #E17654;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+    text-transform: capitalize;
+    color: #FFEAD0;
+    margin-bottom: 20.38px;
+}
+
+.selected-van__name{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 34px;
+    color: #161616;
+    margin-bottom: 9.73px;
+}
+
+.selected-van__price{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 44px;
+    color: #161616;
+    margin-bottom: 9.81px;
+}
+
+.selected-van__description{    
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #161616;
+    margin-bottom: 21.64px;
+}
+
+.selected-van__button{
+    width: 100%;
+    height: 49.83px;
+    border: none;
+    border-radius: 5px;
+    background-color: #FF8C38;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    color: #FFFFFF;
+    cursor: pointer;
+}

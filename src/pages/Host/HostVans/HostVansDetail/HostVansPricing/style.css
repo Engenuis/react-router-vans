@@ -1,0 +1,16 @@
+.vans-price{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    color: #4D4D4D;
+    margin-top: 44.34px;
+}
+
+.vans-price-bold{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 21px;
+    color: #161616;
+}

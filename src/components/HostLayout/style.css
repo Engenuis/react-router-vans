@@ -1,0 +1,24 @@
+.host-layout{
+    margin-top: 32.38px;
+}
+
+.host-nav__list{
+    list-style: none;
+    display: flex;
+    gap: 29px;
+    margin-left: 26px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    margin-bottom: 45px;
+}
+
+.host-nav__list__item{
+    color: #4D4D4D;
+}
+
+.host-nav__list__item:hover{
+    color: #161616;
+    text-decoration: underline;
+}

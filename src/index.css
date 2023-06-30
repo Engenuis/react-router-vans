@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700;800&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    width: 548.15px;
+    margin: auto;
+    background-color: #FFF7ED;
+}
+
+a{
+    color: #161616;
+    text-decoration: none;
+}
+
+a.selected{
+    color: #161616;
+    text-decoration: underline;
+}
